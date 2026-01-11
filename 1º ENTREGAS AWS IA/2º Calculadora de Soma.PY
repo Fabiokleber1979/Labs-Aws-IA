@@ -9,6 +9,6 @@ soma = numero1 + numero2
 
 # Exibição do resultado
 print("=== Calculadora de Soma ===")
-print(f"Número 1: {numero1}")
-print(f"Número 2: {numero2}")
+print(f"Numero 1: {numero1}")
+print(f"Numero 2: {numero2}")
 print(f"Resultado da soma: {soma}")

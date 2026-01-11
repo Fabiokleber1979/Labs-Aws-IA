@@ -9,7 +9,7 @@ consumo_medio = distancia / combustivel
 
 # Exibição dos resultados
 print("Dados da viagem:")
-print(f"Distância percorrida: {distancia:.2f} km")
-print(f"Combustível gasto: {combustivel:.2f} litros")
-print(f"Consumo médio: {consumo_medio:.2f} km/l")
+print(f"Distancia percorrida: {distancia:.2f} km")
+print(f"Combustivel gasto: {combustivel:.2f} litros")
+print(f"Consumo medio: {consumo_medio:.2f} km/l")
 

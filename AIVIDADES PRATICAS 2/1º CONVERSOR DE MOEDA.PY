@@ -11,5 +11,5 @@ valor_euro = valor_reais / taxa_euro
 
 # Exibição dos resultados
 print(f"Valor em reais: R$ {valor_reais:.2f}")
-print(f"Convertido em dólares: US$ {valor_dolar:.2f}")
+print(f"Convertido em dolares: US$ {valor_dolar:.2f}")
 print(f"Convertido em euros: € {valor_euro:.2f}")
